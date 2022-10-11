@@ -65,7 +65,7 @@ p {
     font-size: 2rem;
     font-weight: bold;
     text-shadow: 5px 5px 5px brown;
-    background-color: black;
+    background-color: #111;
 }
 
 span {
