@@ -2,7 +2,7 @@ body {
     display: grid;
     place-items: center;
     font-family: 'Share Tech Mono', monospace;
-    background: url(../img/pixel.jpg);
+    background: url(../img/alma.jpg);
     background-size: cover;
     background-position: center;
 }
