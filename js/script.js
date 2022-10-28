@@ -3,7 +3,7 @@ $hours = document.getElementById('hours'),
 $minutes = document.getElementById('minutes'),
 $seconds = document.getElementById('seconds');
 
-const countdownDate = new Date('10 29, 2022 23:45:00').getTime();
+const countdownDate = new Date('10 29, 2022 23:59:00').getTime();
 
 let interval = setInterval(function(){
 
