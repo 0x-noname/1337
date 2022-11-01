@@ -40,7 +40,7 @@ h1 {
     width: 15ch;
 
     /*animation*/
-    animation: typing 3s steps(15),
+    animation: typing 3s steps(20),
     blink .6s;
     overflow: hidden;
 }
